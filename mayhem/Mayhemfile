@@ -1,0 +1,5 @@
+project: windowsxpkg
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme @@
